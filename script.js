@@ -1,11 +1,10 @@
-// Food data
 const foodData = [
     {
         id: 1,
         name: "Margherita Pizza",
         price: 12.99,
         category: "pizza",
-        image: "img/food/p1.jpg",
+        image: "p1.jpg",
         description: "Classic pizza with tomato sauce, mozzarella, and basil"
     },
     {
@@ -13,7 +12,7 @@ const foodData = [
         name: "Pepperoni Pizza",
         price: 14.99,
         category: "pizza",
-        image: "img/category/pizza.jpg",
+        image: "pizza.jpg",
         description: "Pizza topped with pepperoni and mozzarella cheese"
     },
     {
@@ -21,7 +20,7 @@ const foodData = [
         name: "Cheeseburger",
         price: 9.99,
         category: "burger",
-        image: "img/food/b1.jpg",
+        image: "b1.jpg",
         description: "Juicy beef burger with cheese, lettuce, and tomato"
     },
     {
@@ -29,7 +28,7 @@ const foodData = [
         name: "Chicken Burger",
         price: 10.99,
         category: "burger",
-        image: "img/category/burger.jpg",
+        image: "burger.jpg",
         description: "Grilled chicken breast with special sauce"
     },
     {
@@ -37,7 +36,7 @@ const foodData = [
         name: "Club Sandwich",
         price: 8.99,
         category: "sandwich",
-        image: "img/food/s1.jpg",
+        image: "s1.jpg",
         description: "Triple-decker sandwich with turkey, bacon, and vegetables"
     },
     {
@@ -45,7 +44,7 @@ const foodData = [
         name: "Veggie Sandwich",
         price: 7.99,
         category: "sandwich",
-        image: "img/category/sandwich.jpg",
+        image: "sandwich.jpg",
         description: "Fresh vegetables with hummus and sprouts"
     }
 ];
